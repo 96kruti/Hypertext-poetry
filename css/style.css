@@ -1,0 +1,55 @@
+
+/*This is a comment in CSS*/
+
+body{
+    font-family: Georgia, serif;
+}
+
+
+
+.and{
+    color: red;
+    line-height: 100%;
+    text-align: center;
+}
+.green{
+    color: green;
+    line-height: 100%;
+    text-align: center;
+    transform: rotate(90deg);
+    margin-top: 30%;
+}
+.egg{
+    color: black;
+    line-height: 100%;
+    text-align: center;
+}
+
+.author{
+    color: black;
+    line-height: 100%;
+    transform: rotate(90deg);
+    text-align: center;
+    margin-top: 2%;
+    font-size: medium;
+}
+
+.poem{
+    text-align: center;
+    color:sandybrown;
+    margin-top: 5%;
+    font-size: medium;
+
+}
+
+.text{
+    text-align: center;
+    color: blue;
+    margin-top: 30%;
+    font-size: xx-large;
+}
+
+.highlight:hover{
+    color: blue;
+}
+
